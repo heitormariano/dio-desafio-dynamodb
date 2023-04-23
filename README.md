@@ -2,7 +2,7 @@
 
 ### Visão Geral
 
-Respositório do desafio proposto sobre o DynamoDB. Os detalhes do desafio e do conteúdo ministrado podem ser vistos na aula **Boas práticas com DynamoBB** do bootcamp **Banco PAN Java Developers** da DIO. 
+Repositório do desafio proposto sobre o DynamoDB. Os detalhes do desafio e do conteúdo ministrado podem ser vistos na aula **Boas práticas com DynamoBB** do bootcamp **Banco PAN Java Developers** da DIO. 
 
 ### Serviços adotados
   - Amazon DynamoDB
